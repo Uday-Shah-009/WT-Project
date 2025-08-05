@@ -107,12 +107,12 @@ body {
 .rating {
   color: #7c3aed;
   font-weight: 500;
-  font-size: 1.3rem; /* increased */
+  font-size: 1.3rem; 
   margin-bottom: 1.5rem;
 }
 
 .hero h1 {
-  font-size: 4.5rem;  /* was 3rem */
+  font-size: 4.5rem; 
   font-weight: 800;
   line-height: 1.2;
   margin-bottom: 1rem;
@@ -120,12 +120,12 @@ body {
 
 .hero .highlight {
   color: #a855f7;
-  font-size: 4.5rem; /* was 3rem */
+  font-size: 4.5rem;
 }
 
 .subtitle {
   color: #6b7280;
-  font-size: 1.6rem; /* was 1.25rem */
+  font-size: 1.6rem; 
   line-height: 1.7;
   margin-bottom: 3rem;
   max-width: 900px;
@@ -140,7 +140,7 @@ body {
 
 .shop-now,
 .view-collections {
-  font-size: 1.2rem; /* was 1rem */
+  font-size: 1.2rem; 
   padding: 1.1rem 2.2rem;
   border-radius: 10px;
   cursor: pointer;
@@ -170,14 +170,14 @@ body {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  font-size: 1.3rem; /* was 1.1rem */
+  font-size: 1.3rem; 
   font-weight: 500;
   color: #6b7280;
   flex-wrap: wrap;
 }
 
 .stats strong {
-  font-size: 2rem; /* was 1.6rem */
+  font-size: 2rem; 
   color: #8b5cf6;
 }
 
